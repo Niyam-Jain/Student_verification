@@ -1,0 +1,17 @@
+//This is a example database file used in Student Verification Program
+{
+    "1001": {
+        "roll" : "1001",
+        "name" : "Sahil",
+        "class" : "TE IT",
+        "address" : "Nagar"
+    },
+
+    "1002": {
+        "roll" : "1002",
+        "name" : "Anushka",
+        "class" : "BE IT",
+        "address" : "Nagpur"
+    }
+    
+}
